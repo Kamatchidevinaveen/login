@@ -1,0 +1,18 @@
+/* This is for aligning fa icons vertically with input elements*/
+.fa {
+	margin-top: 10px;
+}
+
+.login-section {
+	margin-top: 70px !important;	
+}
+
+.login-center {
+ 	margin: 0 auto;
+ 	max-width: 330px;
+    padding: 40px 40px;
+
+}
+.login-alert-message {
+	font-size: 12px;
+}
